@@ -15,3 +15,7 @@ history.log 可查看所有查词日志，方便导出到 Anki 等。
 ---
 
 采用离线词库，启动时建立索引，需要一点时间。
+
+---
+
+词库需要自行到 https://github.com/skywind3000/ECDICT/blob/master/ecdict.csv 下载，放到 exe 同目录
